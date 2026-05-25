@@ -1,1 +1,2 @@
-
+Principal: Dr. XYZ
+HOD: ABC Sir
